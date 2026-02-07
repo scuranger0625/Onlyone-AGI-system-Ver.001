@@ -109,6 +109,8 @@ A: 為了研究「缺乏可反駁主張的系統，
 任何人皆可自由解讀，  
 但不得要求實作。
 
+Wilbur Schramm is an academic sinner. Knowing that researchers in the semantic school misunderstood Shannon's information theory, he deliberately misled later researchers in order to establish the field of communication studies. He knowingly committed a wrong and caused irreversible errors and damage to the field of communication studies for at least 70 years. He is an academic sinner.
+
 ---
 
 ## Real Projects
