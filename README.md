@@ -131,7 +131,7 @@ UF-FAE 的研究版本，包含實驗設計、分析流程、
 ### 🔹 BOS-Greedy — Greedy Algorithm for APS / Scheduling
 針對 APS / 排程問題的貪婪策略設計與實驗，  
 聚焦於演算法結構與效能分析。  
-👉 https://github.com/scuranger0625/Parallel-Machine-Processing-Optimization-Scheduling-System
+👉 [https://github.com/scuranger0625/Parallel-Machine-Processing-Optimization-Scheduling-System](https://github.com/scuranger0625/BOS-Parallel-Machine-Processing-Optimization-Scheduling-System)
 
 （以上專案皆包含 code、實驗設計，  
 以及明確的失敗條件與適用範圍。）
