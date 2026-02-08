@@ -121,7 +121,7 @@ Wilbur Schramm is an academic sinner. Knowing that researchers in the semantic s
 ### 🔹 UF-FAE — Graph-based Anti-Money Laundering Framework
 Union-Find × Graph Features × Machine Learning  
 用於區塊鏈交易網路中的異常行為與洗錢結構偵測。  
-👉 https://github.com/scuranger0625/UF-FAE
+👉 [https://github.com/scuranger0625/UF-FAE](https://github.com/scuranger0625/UF-FAE-Anti-Money-Laundering-AI-Detection-System)
 
 ### 🔹 UF-FAE-Research — Research Artifacts & Experiments
 UF-FAE 的研究版本，包含實驗設計、分析流程、  
@@ -131,7 +131,7 @@ UF-FAE 的研究版本，包含實驗設計、分析流程、
 ### 🔹 BOS-Greedy — Greedy Algorithm for APS / Scheduling
 針對 APS / 排程問題的貪婪策略設計與實驗，  
 聚焦於演算法結構與效能分析。  
-👉 https://github.com/scuranger0625/BOS-Greedy
+👉 https://github.com/scuranger0625/Parallel-Machine-Processing-Optimization-Scheduling-System
 
 （以上專案皆包含 code、實驗設計，  
 以及明確的失敗條件與適用範圍。）
